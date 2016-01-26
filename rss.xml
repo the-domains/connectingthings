@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[connectingthings]]></title>
         <description><![CDATA[connectingthings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 11:45:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 09:43:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined5556634b-a656-4c40-81e6-f14a834eaf0f/index.html</link>
+            <link>https://thegrid.ai/connectingthings/4185492c-d567-480b-b4ca-01a52887b0ff/index.html</link>
+            <guid isPermaLink="false">4185492c-d567-480b-b4ca-01a52887b0ff</guid>
+            <pubDate>Tue, 26 Jan 2016 09:43:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What would Steve say? https://unplag.com/blog/steve-jobs-creativity-is-just-connecting-things/</p>]]></description>
+            <link>https://thegrid.ai/connectingthings/5556634b-a656-4c40-81e6-f14a834eaf0f/index.html</link>
             <guid isPermaLink="false">5556634b-a656-4c40-81e6-f14a834eaf0f</guid>
             <pubDate>Mon, 25 Jan 2016 11:45:23 GMT</pubDate>
         </item>

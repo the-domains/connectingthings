@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T20:59:24.257Z'
-dateModified: '2016-01-30T20:58:29.389Z'
+datePublished: '2016-01-30T21:00:37.349Z'
+dateModified: '2016-01-30T21:00:33.942Z'
 title: Connecting things
 author: []
 authors: []

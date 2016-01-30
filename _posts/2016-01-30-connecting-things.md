@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T21:00:37.349Z'
-dateModified: '2016-01-30T21:00:33.942Z'
-title: Connecting things
+datePublished: '2016-01-30T21:06:14.891Z'
+dateModified: '2016-01-30T21:05:41.837Z'
+title: About this blog
 author: []
+sourcePath: _posts/2016-01-30-connecting-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-connecting-things.md
-published: true
 url: connecting-things/index.html
 _type: Article
 
 ---
-# Connecting things
+# About this blog
 
 In 2014, I learned about a project called "The Grid",  a new website builder service based on artificial intelligence. The idea:
 

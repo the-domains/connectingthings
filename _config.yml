@@ -1,6 +1,6 @@
 name: connectingthings
 favicon: null
-layout_spectrum: 0.53327
+layout_spectrum: 0.72701
 typography_spectrum: 0.49257
 title: Connecting Things
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5269717269111425
+  brandStrength: 0.5
   lightness: 0.31690681958571076
   saturation: 0.7607045548502356
   rhythmicContrast: 0.29386987281031907

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: testtesttetttwadgjhadhjsgdhjsgfjhsdgfjs dfhjgsd jhfg sdjhf gjhsdgfjhsd gfjhsdgfjhsdgfjhgsdjhfg jhdsgf jhsdg fjhsdgjfhg sdhjfg jhsdgf jhsdgfjhgsdjhfgjhsdgfjhsdgf dsjhgfjhsg fjhsgfjhsgdjhfg jshgf jhsdgdfjshdg
-datePublished: '2016-01-30T21:51:44.372Z'
-dateModified: '2016-01-30T21:51:41.686Z'
+datePublished: '2016-01-30T22:04:51.407Z'
+dateModified: '2016-01-30T22:04:49.310Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -30,7 +30,7 @@ In 2014, I learned about a project called "The Grid",  a new website builder ser
 
 This immediately caught my attention. If you've ever used one of today's popular website builders such as [Wordpress][1], you'll know why. You easily get trapped spending hours with the layout and design of your site, keeping you from actually publishing stuff.
 
-The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch for me. Eventually, I decided to spend a little money to get access to the beta of the grid.
+The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch for me. Eventually, I decided to spend a little money to become a founding member and get beta-access .
 
 # From high expectations to "this sucks"
 

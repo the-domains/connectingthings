@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-30T21:26:58.646Z'
-dateModified: '2016-01-30T21:26:55.773Z'
-title: The story behind connecting things
+description: testtesttetttwadgjhadhjsgdhjsgfjhsdgfjs dfhjgsd jhfg sdjhf gjhsdgfjhsd gfjhsdgfjhsdgfjhgsdjhfg jhdsgf jhsdg fjhsdgjfhg sdhjfg jhsdgf jhsdgfjhgsdjhfgjhsdgfjhsdgf dsjhgfjhsg fjhsgfjhsgdjhfg jshgf jhsdgdfjshdg
+datePublished: '2016-01-30T21:51:43.900Z'
+dateModified: '2016-01-30T21:51:41.686Z'
+title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
 published: true
@@ -22,11 +22,7 @@ url: connecting-things/index.html
 _type: Article
 
 ---
-# The story behind connecting things
-
-Every day, I post 
-
-A short story on why this blog exists.
+# Hello world
 
 In 2014, I learned about a project called "The Grid",  a new website builder service based on artificial intelligence. The idea:
 
@@ -34,11 +30,11 @@ In 2014, I learned about a project called "The Grid",  a new website builder ser
 
 This immediately caught my attention. If you've ever used one of today's popular website builders such as [Wordpress][1], you'll know why. You easily get trapped spending hours with the layout and design of your site, keeping you from actually publishing stuff.
 
-The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch. Eventually, I decided to spend a little money to get access to the Grid's beta version.
+The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch for me. Eventually, I decided to spend a little money to get access to the beta of the grid.
 
-# From High Expectations to "This Sucks"
+# From high expectations to "this sucks"
 
-However, the beta didn't really meet my expectations. The  
+However, it didn't take long to realize that at its current state, the grid is just not there yet. Yes, it is possible to create a very basic website with grid.       But many things are still under development. 
 
 However, it was not until early 2016 when I finally got access to the beta version of The Grid. However, when I got access to the first beta version, disappointment was big. The kind of websites you could create with the beta version didn't meet my expectations. In fact, the beta version of The Grid was so limited in its functionalities, you could only build very basic websites. So basic, that I was just about to lose patience and choose another service.
 

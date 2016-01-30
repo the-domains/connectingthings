@@ -4,10 +4,18 @@
         <description><![CDATA[connectingthings]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 09:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 20:59:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Connecting things]]></title>
+            <description><![CDATA[<article><h1>Connecting things</h1><p>In 2014, I learned about a project called "The Grid",  a new website builder service based on artificial intelligence. The idea:</p></article>]]></description>
+            <link>https://thegrid.ai/connectingthings/connecting-things/index.html</link>
+            <guid isPermaLink="false">95952f8f-9316-4c79-afe2-f3355ebeba7a</guid>
+            <pubDate>Sat, 30 Jan 2016 20:59:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Combining things...</p>]]></description>
             <link>https://thegrid.ai/connectingthings/4185492c-d567-480b-b4ca-01a52887b0ff/index.html</link>
             <guid isPermaLink="false">4185492c-d567-480b-b4ca-01a52887b0ff</guid>
             <pubDate>Tue, 26 Jan 2016 09:43:32 GMT</pubDate>

@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T13:38:23.799Z'
-dateModified: '2016-01-31T13:38:16.891Z'
+datePublished: '2016-01-31T13:41:49.828Z'
+dateModified: '2016-01-31T13:41:46.390Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -39,7 +39,7 @@ However, it didn't take long to realize that The Grid is just not there yet. Whi
 > 
 > (...) after all of the buildup and how great all of their promotional material looked I was incredibly bummed when I actually got my hands on the product. [From a Reddit Discussion on The Grid][2]
 
-After all, we didn't get promised much less than a next level website builder. I was just about to lose patience and move to another service, when I stepped back and thought again.
+After all, people didn't get promised less than a next level experience. The first impression, though, was rather underwhelming. I was just about to lose patience and move to another service, when I stepped back and thought again.
 
 # Creativity under constraints
 

@@ -17,7 +17,7 @@ keywords:
   - chemical
   - lanthanide
 description: 'The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number (number of protons in the nucleus), electron configurations, and recurring chemical properties. The table also shows four rectangular blocks: s-, p- d- and f-block. In general, within one row (period) the elements are metals on the lefthand side, and non-metals on the righthand side.'
-datePublished: '2016-01-31T19:37:31.535Z'
+datePublished: '2016-01-31T19:37:31.571Z'
 dateModified: '2016-01-31T19:37:28.090Z'
 author: []
 related: []

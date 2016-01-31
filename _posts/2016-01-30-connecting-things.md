@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T13:20:29.950Z'
-dateModified: '2016-01-31T13:20:27.474Z'
+datePublished: '2016-01-31T13:38:23.799Z'
+dateModified: '2016-01-31T13:38:16.891Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -33,13 +33,18 @@ This immediately caught my attention. If you've ever used one of today's popular
 The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch for me. Eventually, I decided to spend a little money to become a founding member and get beta-access .
 
 # From high expectations to "this sucks"
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7379feb-90f9-456c-bdfa-8c134566e128.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d376a5e989814738f47839e3ca5f942b47d2063.gif)
 
-However, it didn't take long to realize that at this moment,  The Grid is just not there yet. While it enables you to at least create a very basic website, even the people at The Grid admit that "(...) it sucks in it's current state". Too much stuff is still not working or under development. Little surprisingly, their founding members - including myself - were rather disappointed. I was just about to lose patience and move to another service, when I stepped back and thought again.
+However, it didn't take long to realize that The Grid is just not there yet. While it enables you to at least create a very basic website, even the people at The Grid admit that "(...) it sucks in its current state". Too much stuff is still not working or under development. Little surprisingly, many founding members - including myself - were rather disappointed. 
+> 
+> (...) after all of the buildup and how great all of their promotional material looked I was incredibly bummed when I actually got my hands on the product. [From a Reddit Discussion on The Grid][2]
+
+After all, we didn't get promised much less than a next level website builder. I was just about to lose patience and move to another service, when I stepped back and thought again.
 
 # Creativity under constraints
 
-See the potential in humans, too.
+In 
 
 [0]: www.thegrid.io
 [1]: www.wordpress.org
+[2]: https://www.reddit.com/r/theGrid_io/comments/40gza2/anyone_else_a_little_disappointed/

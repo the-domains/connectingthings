@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T14:25:27.207Z'
-dateModified: '2016-01-31T14:25:25.570Z'
+datePublished: '2016-01-31T15:24:37.572Z'
+dateModified: '2016-01-31T15:24:36.364Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -28,7 +28,7 @@ In 2014, I learned about a project called The Grid,  a new website builder servi
 
 > The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. [The Grid][0]
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e82fbb-3e88-4b02-87b8-9b8eccdecdd5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74d28f5a-6245-4751-a502-3ed652c9138c.png)
 
 This immediately caught my attention. If you've ever used one of today's popular website builders such as [Wordpress][1], you'll know why. You easily get trapped spending hours with the layout and design of your site, keeping you from actually publishing stuff.
 

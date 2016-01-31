@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T09:55:41.352Z'
-dateModified: '2016-01-31T09:55:38.489Z'
+datePublished: '2016-01-31T10:57:01.173Z'
+dateModified: '2016-01-31T10:56:58.761Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -34,9 +34,7 @@ The idea of "concentrating on contents and let the machine do the rest for you" 
 
 # From high expectations to "this sucks" to getting started
 
-However, it didn't take long to realize that at its current state,  The Grid was just not there yet. While it was possible to at least create a very basic website, even the people at The Grid admitted: "(...) it sucks in it's current state". Little surprisingly, reactions from other founding members - including myself - were rather disappointed. 
-
-I was just about to lose patience and move to another service, when I stepped back and thought again.
+However, it didn't take long to realize that at this moment,  The Grid is just not there yet. While it is possible to at least create a very basic website, even the people at The Grid admit that "(...) it sucks in it's current state". Little surprisingly, their founding members - including myself - were rather disappointed. I was just about to lose patience and move to another service, when I stepped back and thought again.
 
 Creativity under constraints
 

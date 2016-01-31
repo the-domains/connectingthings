@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T19:45:01.294Z'
-dateModified: '2016-01-31T19:44:58.396Z'
+datePublished: '2016-01-31T19:49:14.177Z'
+dateModified: '2016-01-31T19:49:13.799Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: connecting-things/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 # Hello world

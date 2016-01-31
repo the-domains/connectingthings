@@ -4,7 +4,7 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 11:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2016 11:21:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello world]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/connectingthings/test-test-test/index.html</link>
             <guid isPermaLink="false">b5d2320c-ce9b-4ed9-a5fc-28a75b539919</guid>
             <pubDate>Sat, 30 Jan 2016 22:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Combining things...</p>]]></description>
-            <link>https://thegrid.ai/connectingthings/4185492c-d567-480b-b4ca-01a52887b0ff/index.html</link>
-            <guid isPermaLink="false">4185492c-d567-480b-b4ca-01a52887b0ff</guid>
-            <pubDate>Tue, 26 Jan 2016 09:43:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

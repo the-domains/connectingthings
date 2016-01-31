@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: test test
-datePublished: '2016-01-31T13:06:06.179Z'
-dateModified: '2016-01-31T13:06:03.012Z'
+datePublished: '2016-01-31T13:20:29.939Z'
+dateModified: '2016-01-31T13:20:27.474Z'
 title: Hello world
 author: []
 sourcePath: _posts/2016-01-30-connecting-things.md
@@ -31,9 +31,9 @@ In 2014, I learned about a project called The Grid,  a new website builder servi
 This immediately caught my attention. If you've ever used one of today's popular website builders such as [Wordpress][1], you'll know why. You easily get trapped spending hours with the layout and design of your site, keeping you from actually publishing stuff.
 
 The idea of "concentrating on contents and let the machine do the rest for you" was just the perfect sales pitch for me. Eventually, I decided to spend a little money to become a founding member and get beta-access .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8e0080f-43cc-4de9-8004-7bc835b84f32.gif)
 
 # From high expectations to "this sucks"
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7379feb-90f9-456c-bdfa-8c134566e128.gif)
 
 However, it didn't take long to realize that at this moment,  The Grid is just not there yet. While it enables you to at least create a very basic website, even the people at The Grid admit that "(...) it sucks in it's current state". Too much stuff is still not working or under development. Little surprisingly, their founding members - including myself - were rather disappointed. I was just about to lose patience and move to another service, when I stepped back and thought again.
 

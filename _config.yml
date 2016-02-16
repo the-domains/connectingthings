@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.7607046
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5008432
   brandColors:
     - '#A690A4'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: connectingthings
 favicon: null
+name: connectingthings
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.49257
-layout_spectrum: 0.007588533
+layout_spectrum: 0.7150084

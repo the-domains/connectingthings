@@ -6,16 +6,16 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.'
-datePublished: '2016-02-16T21:21:19.457Z'
-dateModified: '2016-02-16T21:21:03.775Z'
+datePublished: '2016-02-16T21:24:48.066Z'
+dateModified: '2016-02-16T21:24:35.803Z'
 title: Another Post Title Headline
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 sourcePath: _posts/2016-02-16-another-post-title-headline.md
 published: true
 url: another-post-title-headline/index.html

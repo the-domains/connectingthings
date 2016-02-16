@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Connecting Things]]></title>
+        <description><![CDATA[Connecting Things]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 16:51:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The practical way to start becoming adaptable is easy: Stop giving orders and start issuing challenges.]]></title>
+            <description><![CDATA[<article><h1>The practical way to start becoming adaptable is easy: Stop giving orders and start issuing challenges.</h1><p>The ability to create new combinations from existing resources is a powerful force for creativity and innovation. By recombining ideas, materials and practices, new and potentially unknown possibilities can emerge. This idea underlies many of the technologies, creative outcomes, and collaborations we find in art/science integration and more broadly in the world we live in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d0bfae82923e3641f6c5ebd8f08e321c9ef10eb.png"></article>]]></description>
+            <link>undefinedthe-practical-way-to-start-becoming-adaptable-is-easy-stop/index.html</link>
+            <guid isPermaLink="false">e7874b23-a57c-4062-be89-3a3d8909354c</guid>
+            <pubDate>Tue, 16 Feb 2016 16:51:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

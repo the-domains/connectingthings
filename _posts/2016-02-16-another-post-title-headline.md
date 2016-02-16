@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.'
-datePublished: '2016-02-16T22:07:05.506Z'
-dateModified: '2016-02-16T22:07:03.445Z'
-title: Yet Another Headline
+description: ''
+datePublished: '2016-02-16T22:29:48.863Z'
+dateModified: '2016-02-16T22:29:45.932Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-16-another-post-title-headline.md
 published: true

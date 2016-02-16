@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-16T15:45:13.990Z'
+datePublished: '2016-02-16T16:19:19.902Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: '"The practical way to start becoming adaptable is easy: Stop giving orders and start issuing challenges."'
-dateModified: '2016-02-16T15:36:04.806Z'
+dateModified: '2016-02-16T15:45:22.549Z'
 sourcePath: _posts/2016-02-16-the-practical-way-to-start-becoming-adaptable-is-easy-stop.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false

@@ -4,8 +4,15 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 11:55:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[6 H1 Headline]]></title>
+            <description><![CDATA[<h1>6 H1 Headline</h1>]]></description>
+            <link>https://thegrid.ai/connectingthings/6-h1-headline/index.html</link>
+            <guid isPermaLink="false">30ec67ee-f403-41c6-8ec0-2821125b063b</guid>
+            <pubDate>Wed, 17 Feb 2016 11:55:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5 H2 Headline]]></title>
             <description><![CDATA[<article><h1>5 H2 Headline</h1><p>This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. </p></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[2 H2 Headline]]></title>
-            <description><![CDATA[<h1>2 H2 Headline</h1>]]></description>
+            <description><![CDATA[<article><h1>2 H2 Headline</h1><p>This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold).</p></article>]]></description>
             <link>https://thegrid.ai/connectingthings/post-number-2/index.html</link>
             <guid isPermaLink="false">8de47c82-e23e-477b-988a-6c0a8c67940f</guid>
             <pubDate>Wed, 17 Feb 2016 11:51:35 GMT</pubDate>

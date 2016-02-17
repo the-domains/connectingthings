@@ -4,8 +4,15 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 13:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 13:27:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Automated Teachers, Augmented Reality And Floating Chairs - Bright]]></title>
+            <description><![CDATA[<article><h1>Automated Teachers, Augmented Reality And Floating Chairs - Bright</h1><p>Three illustrators envision the classroom of the future. A rtists have creatively depicted the future for centuries, from the neo-futuristic visions of Syd Mead (best known for his work on Blade Runner, Alien, and Tron) to Hajime Sorayama, whose brilliant futuristic design for AIBO (a robotic dog developed by Toshitada Doi at Sony) garnered the highest design award in Japan and a spot in the Museum of Modern Art's (MoMA) permanent collections.</p><img src="https://cdn-images-1.medium.com/max/2000/1*_Fd4Cqze6ngNbqmMQ2htOQ.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/connectingthings/automated-teachers-augmented-reality-and-floating-chairs-/index.html</link>
+            <guid isPermaLink="false">f5f7e606-16f1-4edd-8f2f-74550fd11768</guid>
+            <pubDate>Wed, 17 Feb 2016 13:26:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.facebook.com/RobertScoble?fref=ts</link>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/connectingthings/new-post-number-3/index.html</link>
             <guid isPermaLink="false">c8fec40c-7504-411f-8bcd-d0f8c065bfb0</guid>
             <pubDate>Wed, 17 Feb 2016 12:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 H1 Headline]]></title>
-            <description><![CDATA[<article><h1>1 H1 Headline</h1><p>This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. </p></article>]]></description>
-            <link>https://thegrid.ai/connectingthings/post-number-1/index.html</link>
-            <guid isPermaLink="false">81c29453-b62f-407e-970e-3c003f047eef</guid>
-            <pubDate>Wed, 17 Feb 2016 11:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

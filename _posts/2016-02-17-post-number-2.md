@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T11:27:13.428Z'
-dateModified: '2016-02-17T11:25:28.702Z'
+datePublished: '2016-02-17T11:51:35.121Z'
+dateModified: '2016-02-17T11:51:32.927Z'
+title: 2 H2 Headline
+author: []
+sourcePath: _posts/2016-02-17-post-number-2.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Post Number 2
-author: []
-sourcePath: _posts/2016-02-17-post-number-2.md
-published: true
 url: post-number-2/index.html
 _type: Article
 
 ---
-# Post Number 2
+# 2 H2 Headline
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
-
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold). This is a short paragraph right at the beginning (bold).**

@@ -4,8 +4,15 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 11:30:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post Number 4]]></title>
+            <description><![CDATA[<article><h1>Post Number 4</h1><p>Description goes here</p></article>]]></description>
+            <link>https://thegrid.ai/connectingthings/post-number-4/index.html</link>
+            <guid isPermaLink="false">9eb03b91-1751-4e11-9ef0-d3f93da23fa9</guid>
+            <pubDate>Wed, 17 Feb 2016 11:30:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post Number 2]]></title>
             <description><![CDATA[<article><h1>Post Number 2</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </p></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Post Number 3]]></title>
-            <description><![CDATA[<h1>Post Number 3</h1>]]></description>
+            <description><![CDATA[<article><h1>Post Number 3</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></article>]]></description>
             <link>https://thegrid.ai/connectingthings/new-post-number-3/index.html</link>
             <guid isPermaLink="false">c8fec40c-7504-411f-8bcd-d0f8c065bfb0</guid>
             <pubDate>Wed, 17 Feb 2016 11:27:36 GMT</pubDate>

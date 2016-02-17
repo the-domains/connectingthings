@@ -4,11 +4,11 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 11:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 11:46:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[5 H2 Headline]]></title>
-            <description><![CDATA[<h1>5 H2 Headline</h1>]]></description>
+            <description><![CDATA[<article><h1>5 H2 Headline</h1><p>This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. </p></article>]]></description>
             <link>https://thegrid.ai/connectingthings/9c7cbc8d-e1fb-468e-b347-120ffa00c065/index.html</link>
             <guid isPermaLink="false">9c7cbc8d-e1fb-468e-b347-120ffa00c065</guid>
             <pubDate>Wed, 17 Feb 2016 11:44:32 GMT</pubDate>
@@ -35,11 +35,11 @@
             <pubDate>Wed, 17 Feb 2016 11:27:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Post Number 1]]></title>
-            <description><![CDATA[<article><h1>Post Number 1</h1><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. </p></article>]]></description>
+            <title><![CDATA[1 H1 Headline]]></title>
+            <description><![CDATA[<article><h1>1 H1 Headline</h1><p>This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. This is a short paragraph right at the beginning. </p></article>]]></description>
             <link>https://thegrid.ai/connectingthings/post-number-1/index.html</link>
             <guid isPermaLink="false">81c29453-b62f-407e-970e-3c003f047eef</guid>
-            <pubDate>Wed, 17 Feb 2016 11:25:01 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 11:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

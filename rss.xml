@@ -4,8 +4,15 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 10:06:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing what happens</p>]]></description>
+            <link>https://thegrid.ai/connectingthings/28dee1ee-4e02-466c-885f-dd973d3bb318/index.html</link>
+            <guid isPermaLink="false">28dee1ee-4e02-466c-885f-dd973d3bb318</guid>
+            <pubDate>Thu, 18 Feb 2016 10:05:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload337.cargocollective.com/1/17/574234/9042505/DSC_0007_1250.JPG">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/connectingthings/7766245e-e009-4396-8c5e-eb05b359b04a/index.html</link>
             <guid isPermaLink="false">7766245e-e009-4396-8c5e-eb05b359b04a</guid>
             <pubDate>Wed, 17 Feb 2016 12:09:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 H1 Headline]]></title>
-            <description><![CDATA[<article><h1>6 H1 Headline</h1><p>This is a short paragraph set in italic. This is a short paragraph set in italic. This is a short paragraph set in italic. This is a short paragraph set in italic. This is a short paragraph set in italic. This is a short paragraph set in italic.</p></article>]]></description>
-            <link>https://thegrid.ai/connectingthings/6-h1-headline/index.html</link>
-            <guid isPermaLink="false">30ec67ee-f403-41c6-8ec0-2821125b063b</guid>
-            <pubDate>Wed, 17 Feb 2016 11:55:05 GMT</pubDate>
         </item>
     </channel>
 </rss>

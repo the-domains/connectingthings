@@ -4,14 +4,21 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 09:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 22:17:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Source Title Goes Here]]></title>
-            <description><![CDATA[<article><h1>Source Title Goes Here</h1><p>Caption alt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f59b9d3b7bbf176ac9f1430703039f5ddd07139b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Source Title Goes Here</h1><p>Caption alt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6036b3b7d1aff48999f25d9e0ff99bff8410a61e.jpg"></article>]]></description>
             <link>http://images.superfamous.com/Air-Planes</link>
             <guid isPermaLink="false">a4bf1464-32dd-4012-a2f1-0c9256c6c439</guid>
             <pubDate>Fri, 19 Feb 2016 09:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alpha]]></title>
+            <description><![CDATA[<article><h1>Alpha</h1><p>reblogging</p><img src="https://secure.gravatar.com/blavatar/05b4eb3f1957ec63f66a37963be2672d?s=200&ts=1455915638"></article>]]></description>
+            <link>https://deralphakanal.com/</link>
+            <guid isPermaLink="false">bc2dc68c-518b-40df-bac4-5aa5fcafdfc5</guid>
+            <pubDate>Fri, 19 Feb 2016 22:14:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/marginalien/status/694628416608473088</link>
             <guid isPermaLink="false">db94ce43-9671-4ec6-bc28-0b1dbee290b2</guid>
             <pubDate>Wed, 17 Feb 2016 12:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5901f7cf-a06c-4677-b5f7-a9c366ec71c2.JPG">]]></description>
-            <link>https://thegrid.ai/connectingthings/7766245e-e009-4396-8c5e-eb05b359b04a/index.html</link>
-            <guid isPermaLink="false">7766245e-e009-4396-8c5e-eb05b359b04a</guid>
-            <pubDate>Wed, 17 Feb 2016 12:09:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

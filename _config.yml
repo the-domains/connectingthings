@@ -2,7 +2,7 @@ name: connectingthings
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.49257
-title: Connecting Things
+title: Connecting Things - Curated Posts on Creative Communications
 collections:
   - index:
       path: /

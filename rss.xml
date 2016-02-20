@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Connecting Things - Curated Posts on Creative Communications]]></title>
-        <description><![CDATA[Connecting Things - Curated Posts on Creative Communications]]></description>
+        <title><![CDATA[Connecting Things]]></title>
+        <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 14:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 14:42:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Alpha]]></title>
-            <description><![CDATA[<article><h1>Alpha</h1><p>reblogging</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f37221a7ae33ebef3ec1a594207e9f38ad6aea0f.jpg"></article>]]></description>
-            <link>https://deralphakanal.com/</link>
-            <guid isPermaLink="false">bc2dc68c-518b-40df-bac4-5aa5fcafdfc5</guid>
-            <pubDate>Fri, 19 Feb 2016 22:14:49 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testing what happens</p>]]></description>

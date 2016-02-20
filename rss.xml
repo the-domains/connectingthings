@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Connecting Things]]></title>
-        <description><![CDATA[Connecting Things]]></description>
+        <title><![CDATA[Connecting Things - Curated Posts on Creative Communications]]></title>
+        <description><![CDATA[Connecting Things - Curated Posts on Creative Communications]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 13:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 14:24:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>curated posts on creativity in communications</p>]]></description>
+            <link>https://thegrid.ai/connectingthings/2920690e-2670-4fad-8a21-557215120056/index.html</link>
+            <guid isPermaLink="false">2920690e-2670-4fad-8a21-557215120056</guid>
+            <pubDate>Sat, 20 Feb 2016 14:24:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/add9ea2a-2d4c-40e1-bf20-1bfc7d875658.jpg">]]></description>

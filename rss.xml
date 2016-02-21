@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Connecting Things]]></title>
         <description><![CDATA[Connecting Things]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 19:25:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 13:01:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f510dc9-2eb6-403a-a74c-d35cd1e2a96a.jpg">]]></description>
-            <link>undefinedd3ccb20e-2140-4443-ac1d-0e125586bafe/index.html</link>
+            <title><![CDATA[A Curated Newsfeed on Creativity in Corporate and Brand Communications.]]></title>
+            <description><![CDATA[<article><h1>A Curated Newsfeed on Creativity in Corporate and Brand Communications.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8e85b3e84a35d017b1cd613dd240598267d0182.jpg"></article>]]></description>
+            <link>https://thegrid.ai/connectingthings/d3ccb20e-2140-4443-ac1d-0e125586bafe/index.html</link>
             <guid isPermaLink="false">d3ccb20e-2140-4443-ac1d-0e125586bafe</guid>
-            <pubDate>Sat, 20 Feb 2016 19:24:42 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 13:01:43 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,8 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 08:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 08:40:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Hello world]]></title>
-            <description><![CDATA[<article><h1>Hello world</h1><p>If you like, I'll keep you updated on new posts once a month. Click here to sign up to the newsletter.</p></article>]]></description>
-            <link>https://thegrid.ai/connectingthings/hello-world/index.html</link>
-            <guid isPermaLink="false">2f339575-117e-41e4-ad0f-558d0977a67d</guid>
-            <pubDate>Fri, 26 Feb 2016 08:26:43 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Newsletter]]></title>
             <description><![CDATA[<article><h1>Newsletter</h1><p>I'll keep you updated on new posts once a month. Click here to sign up to the newsletter.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4a4533186c69f8fe3c539dc5364272449d4c593.jpg"></article>]]></description>

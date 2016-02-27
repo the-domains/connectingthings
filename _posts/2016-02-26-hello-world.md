@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: 'https://thegrid.ai/connectingthings/'
 inLanguage: null
 starred: false
 keywords: []
 description: ABOUT THIS SITE
-datePublished: '2016-02-26T09:50:07.214Z'
-dateModified: '2016-02-26T09:50:03.291Z'
+datePublished: '2016-02-27T21:50:59.406Z'
+dateModified: '2016-02-27T21:50:51.042Z'
 title: HELLO WORLD
 author: []
 sourcePath: _posts/2016-02-26-hello-world.md
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/189e427cb9d22c940c310ab4a92749e68cf0b590.jpg)

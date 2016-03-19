@@ -4,7 +4,7 @@
         <description><![CDATA[Connecting Things]]></description>
         <link>https://thegrid.ai/connectingthings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 17:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 22:39:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/connectingthings/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GOODBYE GENIUS, HELLO LEGO PLAYERS]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/connectingthings/e31d7867-dc8a-4c8c-9eef-b0f156de6c5e/index.html</link>
             <guid isPermaLink="false">e31d7867-dc8a-4c8c-9eef-b0f156de6c5e</guid>
             <pubDate>Sat, 27 Feb 2016 21:52:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor]]></title>
+            <description><![CDATA[<h1>Lorem ipsum dolor</h1>]]></description>
+            <link>https://thegrid.ai/connectingthings/lorem-ipsum-dolor/index.html</link>
+            <guid isPermaLink="false">9e3d59fd-70a2-45c9-9d06-4739b80c0fdd</guid>
+            <pubDate>Sat, 19 Mar 2016 22:39:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When you know you have a whole hour or two to generate ideas, it’s tempting to sit and wait until a fully-formed idea magically appears out of nowhere...Instead, make timeboxing your friend]]></title>

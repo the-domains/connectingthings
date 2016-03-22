@@ -1,41 +1,41 @@
-name: connectingthings
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49257
-title: Connecting Things
+analytics:
+  twitter: null
+  google: UA-75418715-1
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0
+title: Connecting Things
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: UA-75418715-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.7607046
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5
   lightness: 0
-  saturation: 0.7607046
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: connectingthings
+typography_spectrum: 0.49257

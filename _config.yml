@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7607046
   brandStrength: 0.75
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-75418715-1
   facebook: null
-name: connectingthings
 favicon: null
+name: connectingthings
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.49257
-layout_spectrum: 1
+layout_spectrum: 0.2335582

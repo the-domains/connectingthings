@@ -1,5 +1,30 @@
-title: Connecting Things
-purpose: []
+typography_spectrum: 0.4755481
+color:
+  saturation: 0.7607046
+  brandStrength: 0.75
+  rhythmicContrast: 0.5
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: UA-75418715-1
+  facebook: null
+name: connectingthings
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7607046
-  brandStrength: 0.75
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  lightness: 0
-analytics:
-  twitter: null
-  google: UA-75418715-1
-  facebook: null
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: connectingthings
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4755481
-layout_spectrum: 0
+title: Connecting Things
+description: Bits and Pieces on Ideation
+purpose: []

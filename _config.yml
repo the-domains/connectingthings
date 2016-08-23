@@ -24,6 +24,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Test
+    id: d3ccb20e-2140-4443-ac1d-0e125586bafe
+    type: content
 favicon: null
 collections:
   - index:
